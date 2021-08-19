@@ -21,7 +21,7 @@
 
 | クラウドサービス名 | 提供会社名 | 目的 | サービス URL | データを保管・処理する場所 |
 ---- | ---- | ---- | ---- | ----
-| AmazonWebService | Amazon Web Services, Inc. | <ul><li>拡張機能で利用するマスタデータ管理のため</li></ul> | https://aws.amazon.com/ | 日本およびアメリカ |
+| AmazonWebService | Amazon Web Services, Inc. | 拡張機能で利用するマスタデータ管理のため | https://aws.amazon.com/ | 日本およびアメリカ |
 
 ### 3. 教えてURL ウェブサイトから取得する情報について
 
