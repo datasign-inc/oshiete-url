@@ -27,10 +27,13 @@
 
 本サービスを提供するため、以下のクラウドサービスを利用しています。
 
-| クラウドサービス名 | 提供会社名 | 目的 | サービス URL | データを保管・処理する場所 |
----- | ---- | ---- | ---- | ----
-| AmazonWebService | Amazon Web Services, Inc. | ブラウザ拡張機能で利用するマスタデータ管理のため | https://aws.amazon.com/ | 日本およびアメリカ |
-| BowNow| クラウドサーカス株式会社 | 氏名、会社名、メールアドレス等のお問合せ内容の管理 | https://bow-now.jp/ | 日本およびアメリカ |
+| クラウドサービス名 | 提供者<br>（所在地） | 利用目的 | 個人情報保護について |
+|---- | ---- | ---- | ---- |
+|  [AmazonWebService](https://aws.amazon.com/)  | Amazon Web Services, Inc.<br>（アメリカ・ワシントン州） | ブラウザ拡張機能で利用するマスタデータ管理のため | [日本のデータプライバシー](https://aws.amazon.com/jp/compliance/japan-data-privacy/) |
+| [BowNow](https://bow-now.jp/)| クラウドサーカス株式会社<br>(日本・東京) | 氏名、会社名、メールアドレス等のお問合せ内容の管理 |[プライバシーポリシー](https://cloudcircus.jp/bownow_privacy/)|
+
+当該外国における個人情報の保護に関する制度に関しては、個人情報保護委員会が公表する外国における個人情報の保護に関する制度等の調査についての情報をご確認ください。
+* [アメリカ（連邦）](https://www.ppc.go.jp/files/pdf/USA_report.pdf)
 
 ### 4. 教えてURL ウェブサイトから取得する情報について
 
